@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AzureGamerz_123.aternos.me",
+    "ip": "AzureGamerz_123.aternos.me:47664",
     "port": 47664,
     "version": "1.21.1"
   },
